@@ -2,7 +2,7 @@
 
 This is the starting project for the workshop "First Steps With Unity: Pew Pew!".
 
-![Image](https://github.com/DiogoDeAndrade/SpriteBaker/raw/master/Screenshots/gameplay.png)
+![Image](https://github.com/DiogoDeAndrade/SpaceShooterSK/raw/master/Screenshots/gameplay.png)
 
 The idea of the workshop is to show how to make a simple shoot'em'up using pre-built scripts.
 
